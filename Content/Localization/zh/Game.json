@@ -1,0 +1,18 @@
+{
+	"UI.MainMenu.NewCampaign": "新建战役",
+	"UI.MainMenu.LoadCampaign": "读取战役",
+	"UI.MainMenu.Settings": "设置",
+	"UI.MainMenu.Exit": "退出",
+	"UI.Port.Status.Open": "开放",
+	"UI.Port.Status.Closed": "关闭",
+	"UI.Fleet.Readiness": "舰队战备",
+	"UI.Fleet.Fuel": "燃料",
+	"UI.Fleet.Crew": "船员",
+	"UI.Sensors.Unknown": "未知",
+	"UI.Sensors.Hostile": "敌对",
+	"UI.Sensors.Friendly": "友军",
+	"UI.Command.IssueOrder": "下达命令",
+	"UI.Settings.Theme": "主题",
+	"UI.Settings.Language": "语言",
+	"UI.Settings.Difficulty": "难度"
+}

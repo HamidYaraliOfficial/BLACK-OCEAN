@@ -1,0 +1,18 @@
+{
+	"UI.MainMenu.NewCampaign": "کمپین جدید",
+	"UI.MainMenu.LoadCampaign": "بارگذاری کمپین",
+	"UI.MainMenu.Settings": "تنظیمات",
+	"UI.MainMenu.Exit": "خروج",
+	"UI.Port.Status.Open": "باز",
+	"UI.Port.Status.Closed": "بسته",
+	"UI.Fleet.Readiness": "آمادگی ناوگان",
+	"UI.Fleet.Fuel": "سوخت",
+	"UI.Fleet.Crew": "خدمه",
+	"UI.Sensors.Unknown": "نامشخص",
+	"UI.Sensors.Hostile": "متخاصم",
+	"UI.Sensors.Friendly": "خودی",
+	"UI.Command.IssueOrder": "صدور دستور",
+	"UI.Settings.Theme": "تم",
+	"UI.Settings.Language": "زبان",
+	"UI.Settings.Difficulty": "سطح دشواری"
+}

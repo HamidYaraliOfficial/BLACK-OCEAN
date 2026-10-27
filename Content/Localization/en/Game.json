@@ -1,0 +1,18 @@
+{
+	"UI.MainMenu.NewCampaign": "New Campaign",
+	"UI.MainMenu.LoadCampaign": "Load Campaign",
+	"UI.MainMenu.Settings": "Settings",
+	"UI.MainMenu.Exit": "Exit",
+	"UI.Port.Status.Open": "Open",
+	"UI.Port.Status.Closed": "Closed",
+	"UI.Fleet.Readiness": "Fleet Readiness",
+	"UI.Fleet.Fuel": "Fuel",
+	"UI.Fleet.Crew": "Crew",
+	"UI.Sensors.Unknown": "Unknown",
+	"UI.Sensors.Hostile": "Hostile",
+	"UI.Sensors.Friendly": "Friendly",
+	"UI.Command.IssueOrder": "Issue Order",
+	"UI.Settings.Theme": "Theme",
+	"UI.Settings.Language": "Language",
+	"UI.Settings.Difficulty": "Difficulty"
+}
